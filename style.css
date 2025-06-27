@@ -1,0 +1,14 @@
+/*
+Theme Name: Moin! Cafe Theme
+Theme URI: https://moincafe.42web.io/
+Author: Osamu Sasaki
+Description: 日本語コミュニティ向けテーマ
+Version: 1.0
+License: GPLv2 or later
+*/
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
